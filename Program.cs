@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Geovanni Medina Herrera, NET25
+
+using System;
 
 namespace NumbersGame
 {
